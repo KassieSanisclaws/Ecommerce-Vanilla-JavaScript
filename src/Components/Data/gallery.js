@@ -1,0 +1,95 @@
+export default {    
+    galleryTables: [
+        {
+            _id: '1',
+            name: "Product Name",
+            image: "/Images/Gundams/gundam_AstrayBlue.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '2',
+            name: "Product Name2",
+            image: "/Images/Gundams/00Gundam_perfectGrade-00Riser.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '3',
+            name: "Product Name3",
+            image: "/Images/Gundams/AstrayGundamAmatsuMina_princessOfTheSkyVer-MetalBuild.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '4',
+            name: "Product Name4",
+            image: "/Images/Gundams/DestinyGundam_SeedDestiny-1-144-01.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '5',
+            name: "Product Name5",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '6',
+            name: "Product Name6",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '7',
+            name: "Product Name7",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '8',
+            name: "Product Name8",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '9',
+            name: "Product Name9",
+            image: "/Images/Gundams/DestinyGundam_SeedDestiny-1-144-01.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '10',
+            name: "Product Name10",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '11',
+            name: "Product Name11",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '12',
+            name: "Product Name12",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        },
+        {
+            _id: '13',
+            name: "Product Name13",
+            image: "/Images/Gundams/UnicornGundam03Phenex_PG1-60.png",
+            price: 155,
+            ratings: 4.5,
+        }
+
+] }
